@@ -1,4 +1,5 @@
-# fxserver-esx_boilerplate
-FXServer ESX Boilerplate
+# ESX_CRAFTING
 
-This a sample script for es_extended
+## Craft Items On Your Server !
+
+
